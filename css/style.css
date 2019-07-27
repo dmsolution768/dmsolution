@@ -1452,6 +1452,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #footer .credits {
   text-align: center;
-  font-size: 13px;
+  font-size: 10px;
   color: #ddd;
+}
+
+#footerContainer{
+  font-size:10px;
+  height:30px;
 }
